@@ -9,3 +9,9 @@ In South Africa most women visit a grocery at least once a week and every month 
 Grocery shoppers struggle to determine the availability of item at grocery stores, and most times do not take advantage of price disparity and promos to get the best deals.
 
 It becomes imperative to develop a service that provides shopper with the most current deals and price information of items to improve their shopping experience and reduce cost.
+
+## Usage
+
+Clone the repository:
+
+`git clone`
