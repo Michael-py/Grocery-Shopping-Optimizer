@@ -14,4 +14,14 @@ It becomes imperative to develop a service that provides shopper with the most c
 
 Clone the repository:
 
-`git clone`
+`git clone https://github.com/Michael-py/Grocery-Shopping-Optimizer.git`
+
+`cd` into the cloned repository:
+
+`cd Grocery-Shopping-Optimizer`
+
+Run `test.py` 
+
+`python test.py`.
+
+You may choose to edit the `test.py` file to add more products.
